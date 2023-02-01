@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋+I'm+Saurabh;+Coding+Enthusiast+☀;Full+Stack+Developer+💻;">
 </p>
 
-<p>
-  <h4 align="center"><b><i>"I think twice code once."</i></b></h4>
+<p align="center">
+  <b><i>"I think twice code once."</i></b>
 </p>
 
 <p align="center">
@@ -51,14 +51,16 @@
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<br>
-<br>
+
+
+</br>
+</br>
 <br>
 <br>
 
 
 
-### Github Stats
+### Github Stats:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=potdukhe12&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Saurabh's Github Stats" width="60%">
   
@@ -69,6 +71,5 @@
 </p>
 
 -----
-Credits: [sameer1604](https://github.com/sameer1604)
+<!--Credits: [sameer1604](https://github.com/sameer1604)-->
 
-Last Edited on: 16/07/2021
