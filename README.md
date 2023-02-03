@@ -51,21 +51,24 @@
 
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff" alt="React" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff" alt="Nodejs" />
   <br>
-  <img src="http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff" alt="C" />
-  <img src="https://img.shields.io/badge/-MySql-2C2255?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySql" />
-  <img src="https://img.shields.io/badge/-Java-%231572B6?style=for-the-badge&logo=Java&logoColor=ffffff" alt="MySql" />
+  <img src="http://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=ffffff" alt="C" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MySql" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="MySql" />
   <img src="https://img.shields.io/badge/-.NET-563D7C?style=for-the-badge&logo=.net&logoColor=ffffff" alt="MySql" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="MySql" />
   <br>
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" alt="VSCode" />
   <img src="http://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=ffffff" alt="Eclipse" />
   <img src="https://img.shields.io/badge/-Postman-%23E44D27?style=for-the-badge&logo=postman&logoColor=ffffff" alt="Postman" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Postman" />
 
 </p>
 </div>
