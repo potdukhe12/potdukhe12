@@ -96,10 +96,10 @@
 
 <p align="center">
 	
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=potdukhe12&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Saurabh's Github Stats" width="595px">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=potdukhe12&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Saurabh's Github Stats" width="580px">
   
 	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potdukhe12&&show_icons=true&hide_border=true&theme=radical" width="365px" alt="Saurabh's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potdukhe12&&show_icons=true&hide_border=true&theme=radical" width="360px" alt="Saurabh's Top Languages">
 
 </p>
 
