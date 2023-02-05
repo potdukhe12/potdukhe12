@@ -29,21 +29,22 @@
 
 
 
-### I am a aspiring Full Stack Developer
+###  <span  style="font-size:50px"> `I am a aspiring Full Stack Developer` </span> 
 
-- 🔭 I’m currently Pursuing PG-DAC from C-DAC 
-- 🌱 I’m currently learning .NET Technologies.
+- 🔭 I’m currently Pursuing `PG-DAC` from C-DAC
+- 🌱 I’m currently learning `.NET Technologies`.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 `2023 Goals`: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- ⚡ `Fun fact`: I love connecting with different people :raised_hands:
 
+<br>
 <br>
 
 -----
-### Languages and Tools <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px />
+### <span  style="font-size:50px"> `Languages and Tools` </span> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px />
 
 <div  width="60%">
 <p align="center">
@@ -74,7 +75,7 @@
 </div>
 
 -----
-### Github Stats:
+###  <span  style="font-size:50px"> `Github Stats:` </span> 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=potdukhe12&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Saurabh's Github Stats" width="60%">
   
