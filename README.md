@@ -56,7 +56,7 @@
 
 <br>
 
-<div  width="60%">
+
 <p align="center">
 
 
@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 
 </p>
-</div>
+
 
 <br>
 	
@@ -91,18 +91,25 @@
 </p>
 
 -----
+
 ###  <span  style="font-size:50px"> `Github Stats:` </span> 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=potdukhe12&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Saurabh's Github Stats" width="60%">
+<p align="center">
+	
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=potdukhe12&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Saurabh's Github Stats" width="595px">
   
-<div width="37%">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potdukhe12&&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Saurabh's Top Languages">
-<br>
-<p align="center" width="37%">
+	
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potdukhe12&&show_icons=true&hide_border=true&theme=radical" width="365px" alt="Saurabh's Top Languages">
+
+</p>
+
+	
+<p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 </p>
 
+
 -----
-</div>
+
 
 
