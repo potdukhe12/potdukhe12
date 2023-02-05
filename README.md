@@ -10,14 +10,8 @@
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/potdukhe12" />
 </p>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
-<p align="center">
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-
-<a href="https://www.instagram.com/_classic_sp/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/saurabh-potdukhe-61b643132/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:potdukhe12@gmail.com?subject=Hello%20Saurabh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
 
 
 <!-- <a target="_blank" align="center">
@@ -41,10 +35,24 @@
 - ⚡ `Fun fact`: I love connecting with different people :raised_hands:
 
 <br>
-<br>
 
 -----
+
+###  <span  style="font-size:50px"> `Connect with me` </span> 
+
+<p align="center">
+
+  <a href="https://www.instagram.com/_classic_sp/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/saurabh-potdukhe-61b643132/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:potdukhe12@gmail.com?subject=Hello%20Saurabh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+
+
+-----
+
+
 ### <span  style="font-size:50px"> `Languages and Tools` </span> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px />
+
 
 <div  width="60%">
 <p align="center">
