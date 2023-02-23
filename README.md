@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b><i>"I think twice code once."</i></b>
+  <b><i>"I think twice, code once."</i></b>
 </p>
 
 <p align="center">
@@ -96,11 +96,12 @@
 
 <p align="center">
 	
-<img src="https://github-readme-stats.vercel.app/api?username=potdukhe12&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Saurabh's Github Stats" width="560px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potdukhe12&&show_icons=true&hide_border=true&theme=radical" width="320px" alt="Saurabh's Top Languages">
   
 <br>
+<br>
 	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potdukhe12&&show_icons=true&hide_border=true&theme=radical" width="320px" alt="Saurabh's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=potdukhe12&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Saurabh's Github Stats" width="450px">
 
 </p>
 
@@ -110,7 +111,18 @@
 </p>
 
 
------
+<!-----
 
 
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/potdukhe12/count.svg"/>
+  </div> 
+</p>
+-->
+------
+
+Credit: [Saurabh Potdukhe](https://github.com/potdukhe12)
+Last Edited on 23/02/2023
 
