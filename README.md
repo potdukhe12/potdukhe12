@@ -40,12 +40,25 @@
 
 -----
 
+###  <span  style="font-size:50px"> `Check Out My Portfolio` </span> 
+
+<br>
+<p align="center">
+	<span style="color:red"> (> click on the image <) </span>
+	<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/potdukhe12/My-Portfolio/main/Saurabh%20Potdukhe.html" target="_blank">
+		<img src="https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1" />
+	</a>
+</p>
+<br>
+
+-----
+
 ###  <span  style="font-size:50px"> `Connect with me` </span> 
 
 <p align="center">
-  <a href="https://www.instagram.com/_classic_sp/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Code Forces"/></a>
-	<a href="https://www.linkedin.com/in/saurabh-potdukhe-61b643132/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LeetCode"/></a>
-	<a href="mailto:potdukhe12@gmail.com?subject=Hello%20Saurabh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="AtCoder"/></a>
+  <a href="https://www.instagram.com/_classic_sp/?hl=en" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Code Forces"/></a>
+	<a href="https://www.linkedin.com/in/saurabh-potdukhe-61b643132/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LeetCode"/></a>
+	<a href="mailto:potdukhe12@gmail.com?subject=Hello%20Saurabh" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="AtCoder"/></a>
 	
 </p>
   
