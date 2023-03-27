@@ -42,13 +42,10 @@
 
 ###  <span  style="font-size:50px"> `Check Out My Portfolio` </span> 
 
-<br>
-<p align="center">
-	<span style="color:red"> (> click on the image <) </span>
+<h2 style="color:red" align="center"> (> click on the image <) </h2>
 	<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/potdukhe12/My-Portfolio/main/Saurabh%20Potdukhe.html" target="_blank">
 		<img src="https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1" />
 	</a>
-</p>
 <br>
 
 -----
